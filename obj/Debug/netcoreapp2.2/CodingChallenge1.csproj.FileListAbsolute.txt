@@ -1,0 +1,4 @@
+/Users/charlottepowning/Projects/CodingChallenge1/CodingChallenge1/obj/Debug/netcoreapp2.2/CodingChallenge1.csprojAssemblyReference.cache
+/Users/charlottepowning/Projects/CodingChallenge1/CodingChallenge1/obj/Debug/netcoreapp2.2/CodingChallenge1.csproj.CoreCompileInputs.cache
+/Users/charlottepowning/Projects/CodingChallenge1/CodingChallenge1/obj/Debug/netcoreapp2.2/CodingChallenge1.AssemblyInfoInputs.cache
+/Users/charlottepowning/Projects/CodingChallenge1/CodingChallenge1/obj/Debug/netcoreapp2.2/CodingChallenge1.AssemblyInfo.cs
