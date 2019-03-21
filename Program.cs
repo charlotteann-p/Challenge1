@@ -80,7 +80,7 @@ namespace CodingChallenge1
                 }
                 else return "_";
             } 
-            return "poop";
+            return "nope";
         }
     }
 }
